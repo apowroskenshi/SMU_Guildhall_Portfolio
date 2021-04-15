@@ -1,0 +1,8 @@
+﻿  Snake.cpp
+C:\Users\White Silver\dev\Snake\Snake\Snake.cpp(340,15): warning C4101: 'n': unreferenced local variable
+C:\Users\White Silver\dev\Snake\Snake\Snake.cpp(392,15): warning C4101: 'n': unreferenced local variable
+C:\Users\White Silver\dev\Snake\Snake\Snake.cpp(753,15): warning C4101: 'n': unreferenced local variable
+C:\Users\White Silver\dev\Snake\Snake\Snake.cpp(813,15): warning C4101: 'n': unreferenced local variable
+C:\Users\White Silver\dev\Snake\Snake\Snake.cpp(886,15): warning C4101: 'n': unreferenced local variable
+C:\Users\White Silver\dev\Snake\Snake\Snake.cpp(939,15): warning C4101: 'n': unreferenced local variable
+  Snake.vcxproj -> C:\Users\White Silver\dev\Snake\Debug\Snake.exe
