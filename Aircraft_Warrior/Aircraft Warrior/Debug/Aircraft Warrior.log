@@ -1,0 +1,5 @@
+﻿  Aircraft Warrior.cpp
+C:\Users\White Silver\dev\Aircraft_Warrior\Aircraft Warrior\Aircraft Warrior.cpp(1317,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\White Silver\dev\Aircraft_Warrior\Aircraft Warrior\Aircraft Warrior.cpp(1428,13): warning C4101: 'a': unreferenced local variable
+C:\Users\White Silver\dev\Aircraft_Warrior\Aircraft Warrior\Aircraft Warrior.cpp(1531,6): warning C4101: 'n': unreferenced local variable
+  Aircraft Warrior.vcxproj -> C:\Users\White Silver\dev\Aircraft_Warrior\Debug\Aircraft Warrior.exe
